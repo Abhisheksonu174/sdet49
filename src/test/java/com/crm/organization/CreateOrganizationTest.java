@@ -18,7 +18,7 @@ import com.amandla.objectrepository.OrganizationInformationPage;
  */
 @Listeners(com.amandla.genericutility.ListenerImplementationClass.class)
 public class CreateOrganizationTest extends BaseClass {
-	@Parameters("browser")
+	
 	@Test
 	public  void createOrganizationTest(String browser) {
 		System.out.println("createOrganizationTest   "+browser+"----->"+Thread.currentThread().getId());
