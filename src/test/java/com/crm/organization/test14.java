@@ -2,7 +2,7 @@ package com.crm.organization;
 
 import org.testng.annotations.Test;
 
-public class test14 {
+public class AbhiTest {
 
 	@Test
 
